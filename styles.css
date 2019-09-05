@@ -1,0 +1,216 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+html {
+    text-align: center;
+}
+h1 {
+	font-size: 54px;
+	padding: 25px 0px 25px 0px;
+	background-image: linear-gradient(to bottom right, black, white);
+
+}
+h3 {
+	font-size: 24px;
+	text-decoration: underline;
+	padding-top: 48px;
+}
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+nav ul li {
+	display: inline-block;
+
+}
+
+p {
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+
+.photo1 {
+	text-align: center;
+	width: 376px;
+	height: 450px;
+	margin: 0 auto;
+	background: url("img/bunchofdaises.jpg") no-repeat;
+	
+}
+.photo1:hover {
+	text-align: center;
+	width: 659px;
+	height: 409px;
+	margin: 0 auto;
+	background: url("img/rebel.jpg") no-repeat;
+}
+
+.photo2 {
+	text-align: center;
+	width: 659px;
+	height: 409px;
+	margin: 0 auto;
+	background: url("img/sanfran_14.jpg") no-repeat;
+	
+}
+.photo2:hover {
+	width: 550px;
+	height: 550px;
+	margin: 0 auto;
+	background: url("img/ep1_05.jpg") no-repeat;
+}
+.photo3 {
+	text-align: center;
+	width: 444px;
+	height: 411px;
+	margin: 0 auto;
+	background: url("img/beachpatrolb.jpg") no-repeat;
+	
+}
+.photo3:hover {
+	background: url("img/autocord.jpg") no-repeat;
+}
+.photo4 {
+	text-align: center;
+	width: 338px;
+	height: 360px;
+	margin: 0 auto;
+	background: url("img/Lauradora.jpg") no-repeat;
+	
+}
+.photo4:hover {
+	width: 659px;
+	height: 409px;
+	background: url("img/camedia.jpg") no-repeat;
+}
+.photo5 {
+	text-align: center;
+	width: 400px;
+	height: 265px;
+	margin: 0 auto;
+	background: url("img/orchidsc.jpg") no-repeat;
+	
+}
+.photo5:hover {
+	width: 850px;
+	height: 492px;
+	background: url("img/tach23f.jpg") no-repeat;
+}
+
+.photo6 {
+	text-align: center;
+	width: 550px;
+	height: 357px;
+	margin: 0 auto;
+	background: url("img/vines1.jpg") no-repeat;
+	
+}
+.photo6:hover {
+	width: 550px;
+	height: 550px;
+	background: url("img/ep1_05.jpg") no-repeat;
+}
+
+.photo7 {
+	text-align: center;
+	width: 450px;
+	height: 345px;
+	margin: 0 auto;
+	background: url("img/suvafront.jpg") no-repeat;
+	
+}
+.photo7:hover {
+	width: 750px;
+	height: 750px;
+	background: url("img/speed5b.jpg") no-repeat;
+}
+
+.photo8 {
+	text-align: center;
+	width: 433px;
+	height: 400px;
+	margin: 0 auto;
+	background: url("img/lifegaurd.jpg") no-repeat;
+	
+}
+.photo8:hover {
+	width: 550px;
+	height: 550px;
+	background: url("img/autocord.jpg") no-repeat;
+}
+.photo9 {
+	text-align: center;
+	width: 311px;
+	height: 450px;
+	margin: 0 auto;
+	background: url("img/sunflower.jpg") no-repeat;
+	
+}
+.photo9:hover {
+	width: 550px;
+	height: 550px;
+	background: url("img/rebel.jpg") no-repeat;
+}
+.photo10 {
+	text-align: center;
+	width: 750px;
+	height: 500px;
+	margin: 0 auto;
+	background: url("img/trip_2.jpg") no-repeat;
+	
+}
+.photo10:hover {
+	width: 750px;
+	height: 500px;
+	background: url("img/galaxytab1.jpg") no-repeat;
+}
