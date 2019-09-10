@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-color: lightgray;
 }
 ol, ul {
 	list-style: none;
@@ -52,7 +53,7 @@ html {
 h1 {
 	font-size: 54px;
 	padding: 25px 0px 25px 0px;
-	background-image: linear-gradient(to bottom right, black, white);
+	background-image: linear-gradient(to bottom, black, lightgray);
 
 }
 h3 {
